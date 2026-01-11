@@ -24,7 +24,19 @@
             src="https://custom-icon-badges.demolab.com/github/followers/MarkAntonyOFC?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <a href="https://www.linkedin.com/in/marcos-antonio-santana-lopes-oficial/">
+         <img
+            alt="LinkedIn" 
+            title="Me siga no LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+         />
+    </a>  
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkAntonyOFC)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 ### 🤖 Linguagens e Tecnologias
 
