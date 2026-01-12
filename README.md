@@ -2,12 +2,23 @@
 
   💼 Atualmente eu trabalho no ramo da logística, mas quero mudar de carreira para poder ter mais confort de vida e liberdade para passar tempo com a família. 
   
-  👩‍💻 Escolhi a area por isso, liberdade para trabalhar remotamente, salário mais condizente com o serviço, oportunidade de prestar serviço para empresas internacionais e paixão pela área.
+  👩‍💻 Escolhí a area de TI por isso, liberdade para trabalhar remotamente, salário mais condizente com o serviço, oportunidade de prestar serviço para empresas internacionais e paixão pela área.
 
-  👦 Desde criança sempre fui apaixonado por video games e tecnologia, ficava intrigado como um pequeno aparelho com uma tela e alguns botões conseguia aexibir um tipo de bicho azul que girava e coletava circulos dourados e como existia um aparelho que conseguia me dar um mundo onde eu poderia simplesmente fazer o que quisesse livremente, pegar carros e motos e sair dirigindo por toda a cidade sem me preocupar com nada, passava horas e horas jogando GTA San Andreas no PlayStation 2 e hoje busco conhcer mais profundamente esse mundo da tecnologia.
+Entre em contato por:
+<p align="left">
+ <a>
+    <a>
+       <a href="https://www.instagram.com/san7ana.lpx?igsh=MXAzejluaTcycmE0bg==" alt="Instagram">
+       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="WhatsApp" />
+     </a> 
+     <a>
+       <a href="https://wa.me/qr/D2R2H2EWS5BYH1"></a>
+       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white">
+     </a>
+ </a> 
+ </p>
 
-
-
+-----
 <p align="left">
     <a>
     <a href="https://github.com/MarkAntonyOFC?tab=repositories&sort=stargazers">
@@ -33,7 +44,7 @@
     </a>  
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkAntonyOFC)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
