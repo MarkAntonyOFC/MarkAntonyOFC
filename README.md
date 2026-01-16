@@ -42,6 +42,11 @@ Entre em contato por:
             title="Me siga no LinkedIn" 
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
          />
+    </a>
+    <a href="https://www.youtube.com/@codingforyou-ofc?sub_confirmation=1">
+      <img
+        src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCZ4XvbPePjPTsBuUI-PXMog?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+        alt="Youtube"
     </a>  
 </p>
 
